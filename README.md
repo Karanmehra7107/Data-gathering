@@ -16,7 +16,7 @@
 
 ## Dataset from API  
 
-[Movie Dataset / Kaggle](https://www.kaggle.com/karanmehra/movies)\
+[Movie Dataset / Kaggle](https://www.kaggle.com/karanmehra/movies)
 
 
 ## Dataset from Web scraping 
